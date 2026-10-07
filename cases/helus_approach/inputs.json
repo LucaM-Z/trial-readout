@@ -1,0 +1,11 @@
+{
+  "_comment": "Fill every null. Each value needs a justification in design.md.",
+  "n_per_arm": 110,
+  "alpha": 0.05,
+  "sd_madrs_change": null,
+  "dropout": null,
+  "tau_if_few_studies": null,
+  "haircut_mean": null,
+  "haircut_sd": null,
+  "seed": 20261006
+}

@@ -1,0 +1,18 @@
+{
+  "id": "YYYY-MM-DD_company_trial_v0",
+  "kind": "prospective",
+  "committed_on": "YYYY-MM-DD",
+  "company": "",
+  "asset": "",
+  "trial": "",
+  "registry_id": "",
+  "event_defined_as": "Primary endpoint met: p < 0.05 in favour of drug, as reported in topline results",
+  "probability": null,
+  "model_version": "",
+  "reasoning": "Three sentences max: key evidence, main judgment call, biggest risk.",
+  "market_implied_probability": null,
+  "external_timestamp": "Where the SHA-256 of this file was posted, and when",
+  "outcome": null,
+  "resolved_on": null,
+  "resolution_source": ""
+}
