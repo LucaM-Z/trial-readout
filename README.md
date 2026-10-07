@@ -2,8 +2,6 @@
 
 Estimating the probability that a pivotal clinical trial succeeds, and what that means for the asset's value, using only public evidence. Every prediction is committed publicly before the result is known and scored afterward.
 
-**Not investment advice.** This is a decision-analysis and learning project.
-
 ## What it does
 
 1. **Prior** (`readout/prior.py`): pools earlier trial results with a random-effects meta-analysis, widens to a predictive distribution for a new trial, and applies an explicit Phase 2 to Phase 3 shrinkage factor.
